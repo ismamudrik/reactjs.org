@@ -45,6 +45,6 @@ React is a JavaScript library, and so we'll assume you have a basic understandin
 
 ## Let's Get Started! {#lets-get-started}
 
-Keep scrolling down, and you'll find the link to the [next chapter of this guide](/docs/introducing-jsx.html) right before the website footer.
+Keep scrolling down, and you'll find the link to the [next chapter of this guide](/docs/introducing-jsx.html) right before the website footer. 
 
 
